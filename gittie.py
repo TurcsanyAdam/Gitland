@@ -7,3 +7,8 @@ def introduce():
 
 def joke_function(joke):
     print(joke)
+
+def shout():
+    print("Tudsz varjús viccet?")
+    print("Nem")
+    print("Káááááár")
