@@ -1,6 +1,7 @@
 def introduce():
     print("Hello I am Gittie!")
+    joke = input("Write a joke here: ")
 
 
-def add(a,b):
-    return a + b
+def joke_function(joke):
+    print(joke)
